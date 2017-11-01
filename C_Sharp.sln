@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCollections", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumAndSwitches", "EnumAndSwitches\EnumAndSwitches.csproj", "{D8724DDF-696D-410B-A3BF-7EE2822A2452}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExample\TimerExample.csproj", "{72144E92-94F7-45DA-AA25-333682E1A183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,5 +51,9 @@ Global
 		{D8724DDF-696D-410B-A3BF-7EE2822A2452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8724DDF-696D-410B-A3BF-7EE2822A2452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8724DDF-696D-410B-A3BF-7EE2822A2452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72144E92-94F7-45DA-AA25-333682E1A183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72144E92-94F7-45DA-AA25-333682E1A183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72144E92-94F7-45DA-AA25-333682E1A183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72144E92-94F7-45DA-AA25-333682E1A183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
